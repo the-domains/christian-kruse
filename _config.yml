@@ -12,6 +12,9 @@ color:
     - '#004E98'
 layout_spectrum: 0.8238165252842009
 name: CR_SE
-navigation: []
+navigation:
+  - name: CRSE Videoproductions
+    url: 'http://www.vimeo.com/crse'
+    type: external
 title: '#CR_SE'
 description: journey to self
