@@ -1,8 +1,19 @@
-typography_spectrum: 0.5201562782749534
+title: '#CR_SE'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.28144922107458115
-  lightness: 0.6571111844386905
   saturation: 0.6714175480883569
+  brandStrength: 0.2814492210745811
   rhythmicContrast: 0.8335507235024124
   brandColors:
     - '#FFFFFF'
@@ -10,8 +21,9 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.46663745678961277
-name: CR_SE
+  lightness: 0.6571111844386905
+typography_spectrum: 0.5201562782749534
+description: journey to self
 navigation:
   - name: CRSE videoproduction
     url: 'http://www.vimeo.com/crse'
@@ -19,5 +31,5 @@ navigation:
   - name: CRSE photography
     url: 'https://500px.com/cr_se'
     type: external
-title: '#CR_SE'
-description: journey to self
+layout_spectrum: 1
+name: CR_SE
