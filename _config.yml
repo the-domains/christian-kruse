@@ -1,0 +1,14 @@
+layout_spectrum: 0.8238165252842009
+typography_spectrum: 0.43994674691930413
+color:
+  brandStrength: 0.3702047204133123
+  lightness: 0.7095180270262063
+  saturation: 0.44407271570526063
+  rhythmicContrast: 0.6200665852520615
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: 'Christian Kruse '
