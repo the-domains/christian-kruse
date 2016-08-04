@@ -12,9 +12,6 @@ color:
     - '#004E98'
 layout_spectrum: 0.8238165252842009
 name: CR_SE
-navigation:
-  - name: Videoproduction
-    url: 'http://vimeo.com/dynamicfeatures'
-    type: external
+navigation: []
 title: '#CR_SE'
 description: journey to self
