@@ -16,5 +16,8 @@ navigation:
   - name: CRSE Videoproductions
     url: 'http://www.vimeo.com/crse'
     type: external
+  - name: CRSE photography
+    url: 'https://500px.com/cr_se'
+    type: external
 title: '#CR_SE'
 description: journey to self
