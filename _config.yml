@@ -1,4 +1,3 @@
-layout_spectrum: 0.8238165252842009
 typography_spectrum: 0.43994674691930413
 color:
   brandStrength: 0.3702047204133123
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.8238165252842009
 name: C / K R U S E
 title: LIFE & VALUES
+description: a journey to self
