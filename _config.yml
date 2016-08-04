@@ -13,7 +13,7 @@ color:
 layout_spectrum: 0.8238165252842009
 name: CR_SE
 navigation:
-  - name: CRSE Videoproduction
+  - name: CRSE videoproduction
     url: 'http://www.vimeo.com/crse'
     type: external
   - name: CRSE photography
