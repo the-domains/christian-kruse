@@ -1,32 +1,20 @@
-title: '#CR_SE'
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+typography_spectrum: 0.43994674691930413
 color:
-  saturation: 0.1455424
-  brandStrength: 0.3711063
-  lightness: 1
+  brandStrength: 0.3702047204133123
+  lightness: 0.7095180270262063
+  saturation: 0.44407271570526063
+  rhythmicContrast: 0.6200665852520615
   brandColors:
-    - '#030207'
-    - '#D9E7F4'
-    - '#6088CD'
-    - '#455F80'
-    - '#608245'
-  rhythmicContrast: 0.8555317
-typography_spectrum: 0.1584318
-description: journey to self
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.8238165252842009
+name: CR_SE
 navigation:
   - name: Videoproduction
     url: 'http://vimeo.com/dynamicfeatures'
     type: external
-layout_spectrum: 0.5504833
-name: CR_SE
+title: '#CR_SE'
+description: journey to self
