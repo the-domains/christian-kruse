@@ -1,13 +1,18 @@
 ---
-description: ''
-dateModified: '2016-08-06T21:15:16.560Z'
-datePublished: '2016-08-06T21:15:44.749Z'
-title: A personal letter to - The Minimalists -
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-06T21:34:07.214Z'
 sourcePath: _posts/2016-08-06-a-personal-letter-to-the-minimalists-.md
+author: []
+via: {}
+dateModified: '2016-08-06T21:34:06.144Z'
+title: A personal letter to - The Minimalists -
+publisher: {}
+description: >-
+  I´m a minimalist. I decided to consume mindfully a long while ago and there
+  are two people that inspired me to do so. Jushua Fields Millburn and Ryan
+  Nicodemus from “The Minimalists”. You should follow their blog
+  www.theminimalists.com if you feel like your life could use more freedom, more
+  time and less distraction in general.
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -20,13 +25,10 @@ _type: MediaObject
 ## **T**he Minimalists
 
 I´m a minimalist. I decided to consume mindfully a long while ago and there are two people that inspired me to do so. Jushua Fields Millburn and Ryan Nicodemus from "The Minimalists". You should follow their blog [www.theminimalists.com][0] if you feel like your life could use more freedom, more time and less distraction in general.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/351b56b3-1815-4b97-850c-1d9b974db78a.webp)
 
 ## **T**he Documentary
 
 Today I finally got see their documentary on what they and other people see as one of the biggest problems in our modern societies: compulsive consumption. In their 90 minute piece they make the case for more mindfulness in the way we consume during, organize and share our lifetime with others around us. I have been deeply humbled and inspired by their movie. If you can´t afford the 20 USD to get it online, simply invite yourself to my place, bring some hummus and carrots and we´re gonna watch it together. I believe the guys would approve of this being a way to socialize.
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F153518223&amp;src_secure=1&amp;url=https%3A%2F%2Fvimeo.com%2Fondemand%2Fminimalismfilm&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F553824150_1280x720.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 ## **T**he Letter
 
