@@ -1,4 +1,24 @@
-title: '#CR_SE'
+typography_spectrum: 0.5201562782749534
+color:
+  saturation: 0.6714175480883569
+  brandStrength: 0.2814492210745811
+  rhythmicContrast: 0.8335507235024124
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  lightness: 0.6571111844386905
+layout_spectrum: 1
+name: CR_SE
+navigation:
+  - name: CRSE videoproduction
+    url: 'http://www.vimeo.com/crse'
+    type: external
+  - name: CRSE photography
+    url: 'https://500px.com/cr_se'
+    type: external
 collections:
   - index:
       path: /
@@ -11,25 +31,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.6714175480883569
-  brandStrength: 0.2814492210745811
-  rhythmicContrast: 0.8335507235024124
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  lightness: 0.6571111844386905
-typography_spectrum: 0.5201562782749534
-description: journey to self
-navigation:
-  - name: CRSE videoproduction
-    url: 'http://www.vimeo.com/crse'
-    type: external
-  - name: CRSE photography
-    url: 'https://500px.com/cr_se'
-    type: external
-layout_spectrum: 1
-name: CR_SE
+title: '#CR_SE'
+description: ''
