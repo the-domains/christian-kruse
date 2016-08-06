@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-06T21:34:07.214Z'
+datePublished: '2016-08-06T21:43:15.336Z'
 sourcePath: _posts/2016-08-06-a-personal-letter-to-the-minimalists-.md
 author: []
 via: {}
-dateModified: '2016-08-06T21:34:06.144Z'
+dateModified: '2016-08-06T21:43:14.844Z'
 title: A personal letter to - The Minimalists -
 publisher: {}
 description: >-
@@ -11,7 +11,7 @@ description: >-
   are two people that inspired me to do so. Jushua Fields Millburn and Ryan
   Nicodemus from “The Minimalists”. You should follow their blog
   www.theminimalists.com if you feel like your life could use more freedom, more
-  time and less distraction in general.
+  time and less distraction in general.The Documentary
 starred: false
 inFeed: true
 hasPage: false
@@ -24,9 +24,7 @@ _type: MediaObject
 
 ## **T**he Minimalists
 
-I´m a minimalist. I decided to consume mindfully a long while ago and there are two people that inspired me to do so. Jushua Fields Millburn and Ryan Nicodemus from "The Minimalists". You should follow their blog [www.theminimalists.com][0] if you feel like your life could use more freedom, more time and less distraction in general.
-
-## **T**he Documentary
+I´m a minimalist. I decided to consume mindfully a long while ago and there are two people that inspired me to do so. Jushua Fields Millburn and Ryan Nicodemus from "The Minimalists". You should follow their blog [www.theminimalists.com][0] if you feel like your life could use more freedom, more time and less distraction in general.**T**he Documentary
 
 Today I finally got see their documentary on what they and other people see as one of the biggest problems in our modern societies: compulsive consumption. In their 90 minute piece they make the case for more mindfulness in the way we consume during, organize and share our lifetime with others around us. I have been deeply humbled and inspired by their movie. If you can´t afford the 20 USD to get it online, simply invite yourself to my place, bring some hummus and carrots and we´re gonna watch it together. I believe the guys would approve of this being a way to socialize.
 
