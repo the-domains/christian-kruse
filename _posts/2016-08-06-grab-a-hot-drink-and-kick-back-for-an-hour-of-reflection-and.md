@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-06T20:48:18.656Z'
+datePublished: '2016-08-06T21:30:24.484Z'
 sourcePath: >-
   _posts/2016-08-06-grab-a-hot-drink-and-kick-back-for-an-hour-of-reflection-and.md
 isBasedOnUrl: 'http://lewishowes.com/podcast/don-miguel-ruiz-jr/'
 author: []
 via: {}
-dateModified: '2016-08-06T20:48:18.142Z'
+dateModified: '2016-08-06T21:30:24.095Z'
 title: >-
   Grab a hot drink and kick back for an hour of reflection and four agreements
   to supercharge the path to personal happiness. This really inspired me and
