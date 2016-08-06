@@ -1,20 +1,20 @@
 ---
+datePublished: '2016-08-06T20:48:18.656Z'
+sourcePath: >-
+  _posts/2016-08-06-grab-a-hot-drink-and-kick-back-for-an-hour-of-reflection-and.md
+isBasedOnUrl: 'http://lewishowes.com/podcast/don-miguel-ruiz-jr/'
 author: []
-datePublished: '2016-08-06T15:20:46.173Z'
 via: {}
+dateModified: '2016-08-06T20:48:18.142Z'
 title: >-
   Grab a hot drink and kick back for an hour of reflection and four agreements
   to supercharge the path to personal happiness. This really inspired me and
   reminded me of the different phases I have been going through in life. //
-isBasedOnUrl: 'http://lewishowes.com/podcast/don-miguel-ruiz-jr/'
 publisher: {}
 description: >-
   Author and spiritual teacher Don Miguel Ruiz Jr explains how to master
   yourself, take off your masks, and share unconditional love for yourself and
   others.
-sourcePath: >-
-  _posts/2016-08-06-grab-a-hot-drink-and-kick-back-for-an-hour-of-reflection-and.md
-dateModified: '2016-08-06T15:20:29.634Z'
 starred: false
 inFeed: true
 hasPage: false
