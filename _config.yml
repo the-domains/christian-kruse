@@ -1,4 +1,4 @@
-typography_spectrum: 0.5201562782749534
+typography_spectrum: 0.4778042044490576
 color:
   saturation: 0.6714175480883569
   brandStrength: 0.2814492210745811
@@ -10,7 +10,7 @@ color:
     - '#4D4D4D'
     - '#333333'
   lightness: 0.6571111844386905
-layout_spectrum: 1
+layout_spectrum: 0.4685687869787216
 name: CR_SE
 navigation:
   - name: CRSE videoproduction
