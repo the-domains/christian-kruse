@@ -25,6 +25,9 @@ navigation:
   - name: CRUSE on instagram
     url: 'https://www.instagram.com/cr_se/'
     type: external
+  - name: CRUSE on LinkedIn
+    url: 'https://de.linkedin.com/in/christian-kruse-5b330920'
+    type: external
 collections:
   - index:
       path: /
