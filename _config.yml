@@ -16,7 +16,7 @@ navigation:
   - name: CRSE videoproduction
     url: 'http://www.vimeo.com/crse'
     type: external
-  - name: CRSE photography
+  - name: CRUSE photography
     url: 'https://500px.com/cr_se'
     type: external
 collections:
