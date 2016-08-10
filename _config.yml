@@ -22,6 +22,9 @@ navigation:
   - name: CRUSE on facebook
     url: 'https://www.facebook.com/cruse.io/'
     type: external
+  - name: CRUSE on instagram
+    url: 'https://www.instagram.com/cr_se/'
+    type: external
 collections:
   - index:
       path: /
