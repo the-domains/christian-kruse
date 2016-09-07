@@ -1,4 +1,16 @@
-typography_spectrum: 0.4778042044490576
+title: '#CR_SE'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.6714175480883569
   brandStrength: 0.2814492210745811
@@ -10,8 +22,8 @@ color:
     - '#4D4D4D'
     - '#333333'
   lightness: 0.6571111844386905
-layout_spectrum: 0.4685687869787216
-name: CR_SE
+typography_spectrum: 0.6310419
+description: ''
 navigation:
   - name: CRUSE videography
     url: 'http://www.vimeo.com/crse'
@@ -28,17 +40,5 @@ navigation:
   - name: CRUSE on LinkedIn
     url: 'https://de.linkedin.com/in/christian-kruse-5b330920'
     type: external
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: '#CR_SE'
-description: ''
+layout_spectrum: 0
+name: CR_SE
